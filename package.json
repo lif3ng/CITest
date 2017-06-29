@@ -1,0 +1,19 @@
+{
+  "name": "ci-test",
+  "version": "1.0.0",
+  "description": "try to use CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lif3ng/CITest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lif3ng/CITest/issues"
+  },
+  "homepage": "https://github.com/lif3ng/CITest#readme"
+}
