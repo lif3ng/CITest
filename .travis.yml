@@ -7,3 +7,10 @@ node_js:
   - "9"
   - "10"
   - "11"
+deploy:
+  provider: releases
+  user: "lif3ng"
+  file: "package.json"
+  skip_cleanup: true
+  on:
+    tags: true
